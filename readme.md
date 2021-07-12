@@ -15,3 +15,6 @@ pip3 install PyExecJS
 ```
 make run
 ```
+
+
+![env_v2-0ae362254fa603bf6f548d20a980f71f](https://user-images.githubusercontent.com/26561606/125217685-d990ae00-e2f3-11eb-9787-d39aaa253a9d.jpg)
